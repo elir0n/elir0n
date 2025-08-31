@@ -1,4 +1,4 @@
-# Hi, I'm Adam Celermajer! 👋
+# Hi, I'm Eliron Picard! 👋
 
 I'm a passionate *24-year-old Computer Science student* in my second year, with a knack for creating innovative projects. My journey in tech has been fueled by curiosity and a drive to solve complex problems with elegant solutions.
 
