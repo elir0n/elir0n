@@ -1,21 +1,22 @@
 # Hi, I'm Eliron Picard! 👋
 
-I'm a passionate *24-year-old Computer Science student* in my second year, with a knack for creating innovative projects. My journey in tech has been fueled by curiosity and a drive to solve complex problems with elegant solutions.
+I'm a passionate *Computer Science student* at Bar-Ilan University (2nd year), building systems software, full-stack applications, and AI-driven automation tools.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on various projects involving *full-stack development*.
-- 🌱 I’m constantly learning and exploring new technologies and methodologies to stay on the cutting edge.
-- 👯 I’m looking to collaborate on exciting open-source projects and research in machine learning.
+- 🔭 I'm currently working on various projects involving *full-stack development, systems programming, and AI automation*.
+- 🌱 I'm constantly learning and exploring new technologies and methodologies to stay on the cutting edge.
+- 👯 I'm looking to collaborate on exciting open-source projects and research in machine learning.
 - 📫 How to reach me: [elironpic3@gmail.com](mailto:elironpic3@gmail.com)
 
 ## 🛠 Technologies & Tools
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,21 +27,55 @@ I'm a passionate *24-year-old Computer Science student* in my second year, with 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 📝 Projects
 
+### Systems & Networking
+- **Waze — Real-Time GPS Navigation & Traffic System** — Real-time GPS navigation engine in C with Python tooling. Features lock-free parallel A* routing, EMA live traffic ingestion, congestion physics for 30,000 simulated vehicles, and an interactive Leaflet.js web map on Tel Aviv's OpenStreetMap road network (~6,500 nodes). Benchmarked at **11.27× throughput scaling** to 16 workers. *C, Python, POSIX threads, C11 atomics, TCP/IP, Docker, OpenStreetMap*
 
-### Web Development
-- *Social Media Website: A platform similar to Netflix built with **React* for the frontend and *Node.js* and *MongoDB* for the backend.
+- **CPU Scheduler Simulator** — OS simulator implementing classic CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) using Unix signals to model scheduling events. *C*
 
-### Mobile Development
-- *Android App: A platform similar to Netflix, built with **Android Studio* and integrated with a   *Node.js* and *MongoDB*  server for the backend.
+- **Backup Tool** — Linux backup utility that recursively copies directory trees while preserving file system metadata, permissions, symbolic links, and hard links using POSIX APIs. *C*
+
+### AI & Automation
+- **Orchestra — Multi-Agent Automation Platform** (2025) — Python-based multi-agent orchestrator for automating referral outreach and job search workflows. Features plugin-style agent auto-discovery, concurrent multi-tier email verification (GitHub → domain cache → Hunter.io → SMTP), and LLM-powered message generation via Claude API. *Python, Claude API, Tavily, Hunter.io, ThreadPoolExecutor, Docker*
+
+- **AI Voice Agent** (2025) — Automated multilingual voice assistant managing appointment scheduling through natural language phone conversations. Integrates Deepgram Nova-2 for STT, Claude Sonnet for conversation handling, and Asterisk for telephony; supports Hebrew, English, and French. *Node.js, Deepgram, Claude API, Asterisk, Google Calendar API, Docker*
+
+- **WhatsBlast** (2025) — Automation system for sending and scheduling WhatsApp messages using n8n workflows and the Evolution API. *n8n, Evolution API*
+
+### Full-Stack Development
+- **PlayFlicks** (2025) — Full-stack movie platform with personalized recommendations. Built MERN stack backend with authentication, role-based access control, and a recommendation engine in C using user–movie similarity scoring based on shared viewing history. *MongoDB, Express, React, Node.js, C*
+
+- **Android App** — Mobile Netflix-like platform built with Android Studio, integrated with a Node.js + MongoDB backend server. *Android Studio, Node.js, MongoDB*
+
+### Machine Learning
+- **CNN Image Classifier — FashionMNIST** — Designed and trained a 3-block CNN in PyTorch for 10-class clothing classification, achieving over 80% validation accuracy. Benchmarked against an MLP baseline. *Python, PyTorch*
+
+- **K-Means and PCA from Scratch** — Implemented K-Means clustering and PCA via eigen-decomposition using NumPy. Applied to 2D synthetic datasets and MNIST (784→2 dimensions). *Python, NumPy*
+
+- **Neural Network from Scratch** — MLP for handwritten digit classification with manual forward/backpropagation and gradient descent, no ML frameworks. *Python, NumPy*
+
+### Software Engineering
+- **Arkanoid (OOP Java Game)** — Arkanoid-style 2D game in Java using object-oriented design: modular class architecture, game loop, collision detection, and level progression. *Java*
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir0n&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elir0n&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir0n&layout=compact&theme=radical&hide_border=true)
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliron-picard-130b81374/)
