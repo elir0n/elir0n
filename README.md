@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd-year Computer Science student at **Bar-Ilan University**
-- 🔭 Currently building projects in *full-stack development, systems programming, and AI automation*
+- 🎓 3rd-year Computer Science student at **Bar-Ilan University**
+- 🔭 Currently building projects in 
+*AI automation, full-stack development, systems programming, and*
 - 🌱 Constantly exploring new technologies and methodologies
-- 👯 Looking to collaborate on open-source projects and ML research
 - 🏅 Israeli Air Force Intelligence veteran (2021–2023)
 
 ---
@@ -60,19 +60,19 @@
 
 ## 📝 Projects
 
-### ⚙️ Systems & Networking
-- **Waze — Real-Time GPS Navigation & Traffic System** — Real-time GPS navigation engine in C with Python tooling. Features lock-free parallel A\* routing, EMA live traffic ingestion, congestion physics for 30,000 simulated vehicles, and an interactive Leaflet.js web map on Tel Aviv's OpenStreetMap road network (~6,500 nodes). Benchmarked at **11.27× throughput scaling** to 16 workers. *C, Python, POSIX threads, C11 atomics, TCP/IP, Docker, OpenStreetMap*
-
-- **CPU Scheduler Simulator** — OS simulator implementing classic CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) using Unix signals to model scheduling events. *C*
-
-- **Backup Tool** — Linux backup utility that recursively copies directory trees while preserving file system metadata, permissions, symbolic links, and hard links using POSIX APIs. *C*
-
 ### 🤖 AI & Automation
 - **Orchestra — Multi-Agent Automation Platform** (2025) — Python-based multi-agent orchestrator for automating referral outreach and job search workflows. Features plugin-style agent auto-discovery, concurrent multi-tier email verification (GitHub → domain cache → Hunter.io → SMTP), and LLM-powered message generation via Claude API. *Python, Claude API, Tavily, Hunter.io, ThreadPoolExecutor, Docker*
 
 - **AI Voice Agent** (2025) — Automated multilingual voice assistant managing appointment scheduling through natural language phone conversations. Integrates Deepgram Nova-2 for STT, Claude Sonnet for conversation handling, and Asterisk for telephony; supports Hebrew, English, and French. *Node.js, Deepgram, Claude API, Asterisk, Google Calendar API, Docker*
 
 - **WhatsBlast** (2025) — Automation system for sending and scheduling WhatsApp messages using n8n workflows and the Evolution API. *n8n, Evolution API*
+
+### ⚙️ Systems & Networking
+- **Waze — Real-Time GPS Navigation & Traffic System** — Real-time GPS navigation engine in C with Python tooling. Features lock-free parallel A\* routing, EMA live traffic ingestion, congestion physics for 30,000 simulated vehicles, and an interactive Leaflet.js web map on Tel Aviv's OpenStreetMap road network (~6,500 nodes). Benchmarked at **11.27× throughput scaling** to 16 workers. *C, Python, POSIX threads, C11 atomics, TCP/IP, Docker, OpenStreetMap*
+
+- **CPU Scheduler Simulator** — OS simulator implementing classic CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) using Unix signals to model scheduling events. *C*
+
+- **Backup Tool** — Linux backup utility that recursively copies directory trees while preserving file system metadata, permissions, symbolic links, and hard links using POSIX APIs. *C*
 
 ### 🌐 Full-Stack Development
 - **PlayFlicks** (2025) — Full-stack movie platform with personalized recommendations. MERN stack backend with authentication, role-based access control, and a recommendation engine in C using user–movie similarity scoring. *MongoDB, Express, React, Node.js, C*
