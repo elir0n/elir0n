@@ -95,14 +95,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elir0n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir0n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elir0n&theme=radical)](https://github.com/elir0n)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=elir0n&theme=radical&hide_border=true&background=0D1117)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elir0n&theme=radical&no-frame=true&row=1&column=7)](https://github.com/elir0n)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elir0n&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/elir0n)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elir0n&theme=radical)](https://github.com/elir0n)
+[![Most Committed](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elir0n&theme=radical)](https://github.com/elir0n)
 
 </div>
 
