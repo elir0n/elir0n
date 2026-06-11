@@ -1,12 +1,27 @@
-# Hi, I'm Eliron Picard! 👋
+<div align="center">
 
-I'm a passionate *Computer Science student* at Bar-Ilan University (2nd year), building systems software, full-stack applications, and AI-driven automation tools.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eliron%20Picard&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Systems%20%7C%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real-time+systems+in+C+%26+C%2B%2B;Automating+workflows+with+AI+agents;Full-stack+MERN+development;Machine+learning+from+scratch;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliron-picard-130b81374/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elironpic3@gmail.com)
+
+</div>
+
+---
 
 ## 🚀 About Me
-- 🔭 I'm currently working on various projects involving *full-stack development, systems programming, and AI automation*.
-- 🌱 I'm constantly learning and exploring new technologies and methodologies to stay on the cutting edge.
-- 👯 I'm looking to collaborate on exciting open-source projects and research in machine learning.
-- 📫 How to reach me: [elironpic3@gmail.com](mailto:elironpic3@gmail.com)
+
+- 🎓 2nd-year Computer Science student at **Bar-Ilan University**
+- 🔭 Currently building projects in *full-stack development, systems programming, and AI automation*
+- 🌱 Constantly exploring new technologies and methodologies
+- 👯 Looking to collaborate on open-source projects and ML research
+- 🏅 Israeli Air Force Intelligence veteran (2021–2023)
+
+---
 
 ## 🛠 Technologies & Tools
 
@@ -41,42 +56,54 @@ I'm a passionate *Computer Science student* at Bar-Ilan University (2nd year), b
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+---
+
 ## 📝 Projects
 
-### Systems & Networking
-- **Waze — Real-Time GPS Navigation & Traffic System** — Real-time GPS navigation engine in C with Python tooling. Features lock-free parallel A* routing, EMA live traffic ingestion, congestion physics for 30,000 simulated vehicles, and an interactive Leaflet.js web map on Tel Aviv's OpenStreetMap road network (~6,500 nodes). Benchmarked at **11.27× throughput scaling** to 16 workers. *C, Python, POSIX threads, C11 atomics, TCP/IP, Docker, OpenStreetMap*
+### ⚙️ Systems & Networking
+- **Waze — Real-Time GPS Navigation & Traffic System** — Real-time GPS navigation engine in C with Python tooling. Features lock-free parallel A\* routing, EMA live traffic ingestion, congestion physics for 30,000 simulated vehicles, and an interactive Leaflet.js web map on Tel Aviv's OpenStreetMap road network (~6,500 nodes). Benchmarked at **11.27× throughput scaling** to 16 workers. *C, Python, POSIX threads, C11 atomics, TCP/IP, Docker, OpenStreetMap*
 
 - **CPU Scheduler Simulator** — OS simulator implementing classic CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) using Unix signals to model scheduling events. *C*
 
 - **Backup Tool** — Linux backup utility that recursively copies directory trees while preserving file system metadata, permissions, symbolic links, and hard links using POSIX APIs. *C*
 
-### AI & Automation
+### 🤖 AI & Automation
 - **Orchestra — Multi-Agent Automation Platform** (2025) — Python-based multi-agent orchestrator for automating referral outreach and job search workflows. Features plugin-style agent auto-discovery, concurrent multi-tier email verification (GitHub → domain cache → Hunter.io → SMTP), and LLM-powered message generation via Claude API. *Python, Claude API, Tavily, Hunter.io, ThreadPoolExecutor, Docker*
 
 - **AI Voice Agent** (2025) — Automated multilingual voice assistant managing appointment scheduling through natural language phone conversations. Integrates Deepgram Nova-2 for STT, Claude Sonnet for conversation handling, and Asterisk for telephony; supports Hebrew, English, and French. *Node.js, Deepgram, Claude API, Asterisk, Google Calendar API, Docker*
 
 - **WhatsBlast** (2025) — Automation system for sending and scheduling WhatsApp messages using n8n workflows and the Evolution API. *n8n, Evolution API*
 
-### Full-Stack Development
+### 🌐 Full-Stack Development
 - **PlayFlicks** (2025) — Full-stack movie platform with personalized recommendations. MERN stack backend with authentication, role-based access control, and a recommendation engine in C using user–movie similarity scoring. *MongoDB, Express, React, Node.js, C*
 
 - **Android App** — Mobile Netflix-like platform built with Android Studio, integrated with a Node.js + MongoDB backend server. *Android Studio, Node.js, MongoDB*
 
-### Machine Learning
+### 🧠 Machine Learning
 - **CNN Image Classifier — FashionMNIST** — Designed and trained a 3-block CNN in PyTorch for 10-class clothing classification, achieving over 80% validation accuracy. Benchmarked against an MLP baseline. *Python, PyTorch*
 
 - **K-Means and PCA from Scratch** — Implemented K-Means clustering and PCA via eigen-decomposition using NumPy. Applied to 2D synthetic datasets and MNIST (784→2 dimensions). *Python, NumPy*
 
 - **Neural Network from Scratch** — MLP for handwritten digit classification with manual forward/backpropagation and gradient descent, no ML frameworks. *Python, NumPy*
 
-### Software Engineering
+### 🎮 Software Engineering
 - **Arkanoid (OOP Java Game)** — Arkanoid-style 2D game in Java using object-oriented design: modular class architecture, game loop, collision detection, and level progression. *Java*
+
+---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elir0n&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir0n&layout=compact&theme=radical&hide_border=true)
+<div align="center">
 
-## 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliron-picard-130b81374/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elironpic3@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elir0n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir0n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=elir0n&theme=radical&hide_border=true&background=0D1117)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elir0n&theme=radical&no-frame=true&row=1&column=7)](https://github.com/elir0n)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elir0n&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/elir0n)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
